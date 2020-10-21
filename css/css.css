@@ -1,0 +1,79 @@
+.caja { 
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+color: #ffffff; 
+font-size: 18px; 
+font-weight: 400; 
+text-align: center; 
+background: #889ccf; 
+margin: 0 0 25px; 
+overflow: hidden; 
+padding: 20px; 
+border-radius: 35px 0px 35px 0px; 
+-moz-border-radius: 35px 35px 35px 35px; 
+-webkit-border-radius: 35px 35px 35px 35px; 
+border: 2px solid #5878ca;}
+
+.principal{
+
+	height: 160%;
+	width:100%;
+	background: #889ccf; 
+
+
+}
+.titulo{
+  font-family: "Consolas", monospace;
+  height: 4rem;
+  background-color: #216CF8;
+  overflow: hidden; 
+  padding: 20px; 
+  border-radius: 45px 45px 45px 45px; 
+  -moz-border-radius: 45px 45px 45px 45px; 
+  -webkit-border-radius: 45px 45px 45px 45px; 
+  border: 2px solid #5878ca;
+
+
+}
+
+.footer {
+  height: 8rem;
+  background-color: #216CF8;
+  overflow: hidden; 
+  padding: 20px; 
+  border-radius: 45px 45px 45px 45px; 
+  -moz-border-radius: 45px 45px 45px 45px; 
+  -webkit-border-radius: 45px 45px 45px 45px; 
+  border: 2px solid #5878ca;
+}
+
+.parrafoinicial{
+
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+color: #ffffff; 
+font-size: 18px; 
+font-weight: 400; 
+text-align: center; 
+background: #889ccf; 
+}
+
+.imagenuno{
+margin: auto;
+display: block;
+}
+.divimguno{
+
+	width: 100%;
+}
+
+.navbar{
+
+	background-color: #CC1414;
+
+}
+
+.card{
+
+  margin: auto;
+display: block;
+  
+}
